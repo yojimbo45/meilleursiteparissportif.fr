@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	TRAFFIC_DST	SSR-UK
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	et_user_id	aaghOqtEueJFC1356150
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	r9746	2
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	r51338	2
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	r51337	1
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	r51336	1
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	partner_clickout	861
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	user_c	1609805808
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	ssr_id	KAfP3VlmGATUCh802bdc
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	et_current_iid	kIe1PVwVSQReFA827bdc
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	niparam__url	%2Farticles%2F4
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	r51335	1
+www.10meilleurssitesdeparissportifs.fr	TRUE	/	FALSE	1999999999	user_r	1609805810
+
