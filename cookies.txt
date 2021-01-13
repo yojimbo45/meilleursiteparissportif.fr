@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.indicanews.fr	TRUE	/	FALSE	1999999999	__cfduid	d270737ccd31f90c753ce3c21b9a514761610544552
-indicanews.fr	TRUE	/	FALSE	1999999999	SameSite	Lax
-
