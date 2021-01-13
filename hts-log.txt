@@ -1,5 +1,5 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Jan 2021 13:53:40 at https://indicanews.fr/
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://indicanews.fr/ -O1 "C:\Users\neil\Documents\website httrack\https___indicanews.fr_" )
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Jan 2021 14:28:20 at https://indicanews.fr/
+(winhttrack -qwC2%Ps2u1%s%uN1%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://indicanews.fr/ -O1 "C:\Users\neil\Documents\website httrack\2222" )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 63 links scanned, 62 files written (4510877 bytes overall) [2156061 bytes received at 119781 bytes/sec], 3363492 bytes transferred using HTTP compression in 40 files, ratio 27%, 16.2 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 63 links scanned, 62 files written (4510877 bytes overall) [2156035 bytes received at 39200 bytes/sec], 3363492 bytes transferred using HTTP compression in 40 files, ratio 27%, 7.2 requests per connection
 (No errors, 0 warnings, 0 messages)
